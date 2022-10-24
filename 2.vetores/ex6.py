@@ -1,0 +1,1 @@
+# 6- Declare uma lista de 40 posições e atribua valor 0 p/ todos os elementos que possuírem valores negativos.

@@ -1,0 +1,1 @@
+# 4- Declare uma matriz 6 x 6, conte e escreva quantos valores maiores que 10 ela possui.
